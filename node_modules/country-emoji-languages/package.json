@@ -1,0 +1,23 @@
+{
+    "name": "country-emoji-languages",
+    "version": "1.0.0",
+    "description": "Get country languages from country flag emojis",
+    "main": "index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/saiteja-madha/country-emoji-languages.git"
+    },
+    "keywords": [
+        "country-flag",
+        "flag-emoji",
+        "country-emoji",
+        "flag-translations"
+    ],
+    "author": "Sai Teja M",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/saiteja-madha/country-emoji-languages/issues"
+    },
+    "homepage": "https://github.com/saiteja-madha/country-emoji-languages#readme"
+}
