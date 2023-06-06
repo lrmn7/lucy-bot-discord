@@ -42,7 +42,7 @@
 - Open the terminal and run the following commands
 
 ```
-git clone https://github.com/lrmn/discord-bot-v2.git
+git clone https://github.com/lrmn/lucy-bot-discord.git
 cd discord-js-bot
 npm install
 ```
