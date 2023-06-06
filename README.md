@@ -30,6 +30,7 @@
 - 🤝 Support Server: [Join Here](https://discord.gg/WFfjrQxnfH)
 - 📂 Documentation URL: [Visit Here](https://lrmn.gitbook.io/lucy/)
 - 🐳 Docker Image: [Hub](https://hub.docker.com/r/lrmn7/discord-bot-v2)
+- 🚀 Hoosted: [Hop.io](https://hop.io)
 
 ## 📦 Prerequisites
 
